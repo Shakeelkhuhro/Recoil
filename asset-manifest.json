@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shakeelkhuhro/Recoil/static/css/main.ef677c34.css",
+    "main.js": "/Shakeelkhuhro/Recoil/static/js/main.2befb581.js",
+    "static/js/787.1f18c558.chunk.js": "/Shakeelkhuhro/Recoil/static/js/787.1f18c558.chunk.js",
+    "index.html": "/Shakeelkhuhro/Recoil/index.html",
+    "main.ef677c34.css.map": "/Shakeelkhuhro/Recoil/static/css/main.ef677c34.css.map",
+    "main.2befb581.js.map": "/Shakeelkhuhro/Recoil/static/js/main.2befb581.js.map",
+    "787.1f18c558.chunk.js.map": "/Shakeelkhuhro/Recoil/static/js/787.1f18c558.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef677c34.css",
+    "static/js/main.2befb581.js"
+  ]
+}
